@@ -1,0 +1,50 @@
+[
+    {
+        "Appointment_ID": "1",
+        "Client": "Microsoft",
+        "Language": "Mandarin",
+        "Date": "07/13/2027",
+        "Start_Time": "10:00 AM",
+        "End_Time": "11:00 AM"
+
+    }, 
+
+    {
+        "Appointment_ID": "2",
+        "Client": "Apple",
+        "Language": "Czech",
+        "Date": "05/20/2027",
+        "Start_Time": "15:00",
+        "End_Time": "17:30"
+    },
+
+    {
+        "Appointment_ID": "3",
+        "Client": "Nvidia",
+        "Language": "Lingala",
+        "Date": "10/07/2026",
+        "Start_Time": "09:00 AM",
+        "End_Time": "05:30 PM"
+    },
+
+    {
+        "Appointment_ID": "4",
+        "Client": "IBM",
+        "Language": "Rushin", 
+        "Date": "08/01/2026",
+        "Start_Time": "06:00 PM",
+        "End_Time": "08:00 PM"
+    },
+
+    {
+        "Appointment_ID": "5",
+        "Client": "BrookStone",
+        "Language": "French",
+        "Date": "10/07/2026",
+        "Start_Time": "09:00 AM",
+        "End_Time": "05:30 PM"
+    }
+
+]
+
+
